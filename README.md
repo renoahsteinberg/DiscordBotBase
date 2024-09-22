@@ -1,3 +1,3 @@
-# Discord Bot Base
+# Discord Bot Base (3 years old)
 
-Just a small unfinished Bot Base
+Just a small unfinished Bot Base 
